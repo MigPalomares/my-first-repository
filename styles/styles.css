@@ -1,0 +1,36 @@
+/*.txt-title {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: antiquewhite;
+}
+/*.align {
+    display: flex;
+    justify-content: center;
+
+}*/
+/*.align {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}*/
+.paragraph {
+    font-family:Arial, Helvetica, sans-serif;
+    /* text-decoration: line-through red 4px; */
+    
+}
+.align {
+    /*width: 100%;*/
+    
+    display: flex;
+    justify-content: center; 
+}
+
+.align p{
+    margin: 10px 20px 0px 20px;
+}
+
+.align-p{
+    display: flex;
+    justify-content: space-evenly;
+} 
